@@ -6,6 +6,7 @@ The EFI required for my Monterey 12.3 Hackintosh.
 - 16GB of DDR4 at 2666MHz
 - Realtek Gaming GbE Family Controller
 - NVIDIA GeForce GTX 1060 6GB (Disabled, iGPU is used since NVIDIA cards aren't compatible)
+- OpenCore 0.7.9
 
 ### What works
 - Audio (Headphones & Monitor)
