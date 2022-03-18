@@ -14,6 +14,7 @@ The EFI required for my Monterey 12.3 Hackintosh.
 - iGPU
 - dGPU disabling
 - iGPU BusID patching
+- Framebuffer patching for the CPU
 
 ### What doesn't work
 - PCIe WiFi adapter
