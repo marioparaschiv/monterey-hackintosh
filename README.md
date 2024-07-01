@@ -1,7 +1,11 @@
+---
+
 <div align="center">
-  <h1>🧑‍💻 Monterey Hackintosh</h1>
+  <h3>🧑‍💻 Monterey Hackintosh</h3>
   <p>Hackintosh EFI made for running a i5-9600K on macOS Monterey 12.3.</p>
 </div>
+
+---
 
 ## Specification
 - i5 9600K 
