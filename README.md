@@ -1,7 +1,9 @@
-# 🧑‍💻 Hackintosh
-The EFI required for my Monterey 12.3 Hackintosh.
+<div align="center">
+  <h1>🧑‍💻 Monterey Hackintosh</h1>
+  <p>Hackintosh EFI made for running a i5-9600K on macOS Monterey 12.3.</p>
+</div>
 
-### Specification
+## Specification
 - i5 9600K 
 - 16GB of DDR4 at 2666MHz
 - Realtek Gaming GbE Family Controller
@@ -9,7 +11,7 @@ The EFI required for my Monterey 12.3 Hackintosh.
 - Gigabyte H310M S2H
 - OpenCore 0.7.9
 
-### Functional Features
+## Functional Features
 - Audio (Headphones & Monitor)
 - Ethernet Adapter
 - iGPU
@@ -17,6 +19,6 @@ The EFI required for my Monterey 12.3 Hackintosh.
 - Motherbord BusID patching for the iGPU
 - Framebuffer patching for the iGPU
 
-### Non-Functional Features
+## Non-Functional Features
 - PCIe WiFi adapter
 - Possibly other stuff, I can't recall.
